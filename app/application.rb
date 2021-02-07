@@ -21,4 +21,3 @@ class Application
   end
 
 end
-© 2
